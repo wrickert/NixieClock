@@ -1,4 +1,4 @@
-update=Sat Jun 30 23:46:49 2018
+update=Wed 17 Jul 2019 02:35:16 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -28,40 +28,3 @@ version=1
 [eeschema]
 version=1
 LibDir=
-[eeschema/libraries]
-LibName1=power
-LibName2=device
-LibName3=switches
-LibName4=relays
-LibName5=motors
-LibName6=transistors
-LibName7=conn
-LibName8=linear
-LibName9=regul
-LibName10=74xx
-LibName11=cmos4000
-LibName12=adc-dac
-LibName13=memory
-LibName14=xilinx
-LibName15=microcontrollers
-LibName16=dsp
-LibName17=microchip
-LibName18=analog_switches
-LibName19=motorola
-LibName20=texas
-LibName21=intel
-LibName22=audio
-LibName23=interface
-LibName24=digital-audio
-LibName25=philips
-LibName26=display
-LibName27=cypress
-LibName28=siliconi
-LibName29=opto
-LibName30=atmel
-LibName31=contrib
-LibName32=valves
-LibName33=/home/william/Documents/Projects/Nixie/footprints/hv5122
-LibName34=/home/william/Documents/Projects/LifxSwitch/footprints/kicad-ESP8266/ESP8266
-LibName35=/home/william/Documents/Projects/Nixie/footprints/Eagle-and-KiCAD-Nixie-Libs/nixies-us
-LibName36=/home/william/Documents/Projects/badge/schematic/badge-cache

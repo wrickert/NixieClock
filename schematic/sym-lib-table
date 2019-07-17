@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name NixieClock-rescue)(type Legacy)(uri ${KIPRJMOD}/NixieClock-rescue.lib)(options "")(descr ""))
+  (lib (name hv5122)(type Legacy)(uri /home/william/Documents/Projects/Nixie/footprints/hv5122.lib)(options "")(descr ""))
+  (lib (name ESP8266)(type Legacy)(uri /home/william/Documents/Projects/LifxSwitch/footprints/kicad-ESP8266/ESP8266.lib)(options "")(descr ""))
+  (lib (name nixies-us)(type Legacy)(uri /home/william/Documents/Projects/Nixie/footprints/Eagle-and-KiCAD-Nixie-Libs/nixies-us.lib)(options "")(descr ""))
+)
